@@ -223,8 +223,8 @@ project.lock.json
 *.Specs_*.html
 
 /.vs
-/.bin
-/.obj
+AidaAPI/bin
+AidaAPI/obj
 
 #####
 # End of core ignore list, below put you custom 'per project' settings (patterns or path)
